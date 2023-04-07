@@ -4,11 +4,7 @@ If an employee wants to get the highest salary possible, United States should be
 
 Large and mid-size companies are providing more salaries compared to small ones.
 
-Contract and full-time employments are way to go for 2022.
-
 Data Engineers, Data Scientists, and Machine Learning Engineers are the most valuable titles (by looking at their average salary).
-
-Remote jobs are more popular and also pay the most. This may be due to the pandemic.
 
 Salary increase becomes drastic once you have gained a senior-level experience.
 
